@@ -1,0 +1,12 @@
+.button {
+  background-color: aquamarine;
+  color: #fff;
+  border-radius: 10px;
+  border: none;
+  padding: 20px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 11em;
+  min-width: 100vh;
+}
+
+html {
+  background-color: cornsilk;
+}
+
